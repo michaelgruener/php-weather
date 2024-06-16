@@ -1,0 +1,14 @@
+form{
+    margin: 5% 40%;
+
+}
+
+.response {
+    display: block;
+    margin: 50px auto;
+    text-align: center;
+}
+
+button[type="submit"]{
+    margin-bottom: 20px;
+}
